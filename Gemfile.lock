@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/xaethos/heroku-rake.git
+  revision: 1ae4333b1bb6356f313666e4caf160027cbcfa11
+  ref: 1ae4333
+  specs:
+    heroku-rake (0.0.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -105,6 +112,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
+  heroku-rake!
   jquery-rails
   pg
   rails (= 3.2.12)
